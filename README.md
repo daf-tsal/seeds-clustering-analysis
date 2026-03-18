@@ -1,3 +1,7 @@
+## Motivation
+
+This project was developed to explore clustering techniques and dimensionality reduction methods on a real-world dataset, focusing on both performance evaluation and interpretability.
+
 # Seeds Dataset Analysis: Clustering & Dimensionality Reduction
 
 This project explores the **Seeds dataset** from the UCI Machine Learning Repository using clustering and dimensionality reduction techniques.
