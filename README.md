@@ -52,8 +52,10 @@ Each sample is described by **7 morphological features**.
 
 ## Project Structure
 ├── data/
+
 │ └── seeds_dataset.txt
 ├── results/
+
 │ ├── silhouette_analysis.png
 │ ├── dendrogram_ward.png
 │ ├── pca_variance.png
