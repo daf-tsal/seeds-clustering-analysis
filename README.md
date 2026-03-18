@@ -54,17 +54,27 @@ Each sample is described by **7 morphological features**.
 ├── data/
 
 │ └── seeds_dataset.txt
+
 ├── results/
 
 │ ├── silhouette_analysis.png
+
 │ ├── dendrogram_ward.png
+
 │ ├── pca_variance.png
+
 │ ├── pca_reconstruction_error.png
+
 │ ├── pca_2d.png
+
 │ └── lda_2d.png
+
 ├── notebooks/
+
 │ └── seeds_analysis.ipynb
+
 ├── README.md
+
 └── requirements.txt
 
 
